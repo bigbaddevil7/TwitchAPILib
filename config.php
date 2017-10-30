@@ -38,7 +38,7 @@ SCOPES
 'user:edit',
 'user:read:email'
 
-VALID CODE
+
 
 
 ?>
